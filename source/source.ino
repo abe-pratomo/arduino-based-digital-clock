@@ -1,3 +1,9 @@
+// Dibuat dan difinalisasi oleh Abraham Pratomo (13221051) dan Kevin Reagen (13221087) pada 28 Maret 2024
+
+// Tugas besar ini dibuat untuk pemenuhan nilai mata kuliah Sistem Mikroprosesor EL3014,
+// program studi Teknik Elektro, fakultas Sekolah Teknik Elektro dan Informatika,
+// Institut Teknologi Bandung pada tahun ajaran 2023/2024 semester genap
+
 /* ############################################################################################################################################################################## */
 /* ############################################################################# START OF PROGRAM ############################################################################### */
 /* ############################################################################################################################################################################## */
