@@ -1,2 +1,5 @@
 # arduino-based-digital-clock
-This is an Arduino IDE-based digital clock, complete with timer and stopwatch modes. It was created to fulfill a big project (Tugas Besar) assignment for the Microprocessor System class in the Electrical Engineering program at Bandung Institute of Technology in March 2024 and uses an Arduino family microcontroller (an Arduino Nano for the project).
+This is an Arduino IDE-based digital clock, complete with timer/alarm and stopwatch modes. It was created in March 2024 to fulfill a big project (Tugas Besar) assignment for the Microprocessor System class in the Electrical Engineering program at Bandung Institute of Technology. It uses an Arduino family microcontroller (an Arduino Nano for the project).
+
+
+You can find the source code "Tugas_Sismik_Jam_Digital_Lengkap_13221051_13221087.ino" inside the source folder. You can also find a quick and simple demonstration of the design in the video inside the demo folder (note that it was narrated in Bahasa Indonesia). Lastly, you can find the reports, including the reports of the design, of the first implementation which only had a simple clock mode, and of the final implementation which had been completed with timer/alarm and stopwatch modes, inside the docs folder.
