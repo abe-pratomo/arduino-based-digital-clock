@@ -1,5 +1,5 @@
 # Arduino-based Digital Clock with Stopwatch and Timer/Alarm Modes
-This is an Arduino IDE-based digital clock, complete with timer/alarm and stopwatch modes, created in March 2024 to fulfill a big project (Tugas Besar) assignment for the Microprocessor System class in the Electrical Engineering program at Bandung Institute of Technology. It uses an Arduino family microcontroller (an Arduino Nano for this example).
+This is an Arduino IDE, C++ based digital clock software implementation, complete with timer/alarm and stopwatch modes, created in March 2024 to fulfill a big project (Tugas Besar) assignment for the Microprocessor System class in the Electrical Engineering program at Bandung Institute of Technology. It uses an Arduino family microcontroller (an Arduino Nano for this example).
 
 ## Contents
 Source code ["source.ino"](https://github.com/abe-pratomo/arduino-based-digital-clock/blob/ca226d2bdaf0533ba9773980b33355e2a18d386e/source/source.ino) is available inside the [source](https://github.com/abe-pratomo/arduino-based-digital-clock/tree/85a2a71484c9189f11c33efd1d249a6488de6d89/source) folder, complete with comments, written in Bahasa Indonesia, to make the code easier to read and understand. A quick and simple demonstration of the design can also be found in the YouTube video below (note that it was narrated in Bahasa Indonesia as well).
